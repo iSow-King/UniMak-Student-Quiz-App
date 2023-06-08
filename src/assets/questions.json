@@ -1,0 +1,167 @@
+{
+    "questions": [{
+            "questionText": "What is the correct past tense of the verb 'go'?",
+            "options": [{
+                    "text": "Went",
+                    "correct": true
+                },
+                {
+                    "text": "Gone"
+                },
+                {
+                    "text": "Going"
+                },
+                {
+                    "text": "Goes"
+                }
+            ],
+            "explanation": "Answer: Went"
+        },
+
+        {
+            "questionText": "Which word is a synonym for 'happy'?",
+            "options": [{
+                    "text": "Sad"
+                },
+                {
+                    "text": "Angry"
+                },
+                {
+                    "text": "Tired"
+                },
+                {
+                    "text": "Joyful",
+                    "correct": true
+                }
+            ],
+            "explanation": "Answer: Joyful"
+        },
+
+        {
+            "questionText": "What is the plural form of the word 'child'?",
+            "options": [{
+                    "text": "Childs"
+                },
+                {
+                    "text": "Children",
+                    "correct": true
+                },
+                {
+                    "text": "Childrens"
+                },
+                {
+                    "text": "Childies"
+                }
+            ],
+            "explanation": "Answer: Children"
+        },
+        {
+            "questionText": "Which sentence is grammatically correct?",
+            "options": [{
+                    "text": "I am going to the store, and buy some apples."
+                },
+                {
+                    "text": "I am going to the store to buy some apples.",
+                    "correct": true
+                },
+                {
+                    "text": "I am going to the store and buying some apples."
+                },
+                {
+                    "text": "I am going to the store, so buy some apples."
+                }
+            ],
+            "explanation": "Answer: I am going to the store to buy some apples"
+        },
+        {
+            "questionText": "What is the comparative form of the adjective 'good'?",
+            "options": [{
+                    "text": "Better",
+                    "correct": true
+                },
+                {
+                    "text": "Gooder"
+                },
+                {
+                    "text": "Goodier"
+                },
+                {
+                    "text": "Goodest"
+                }
+            ],
+            "explanation": "Answer: Better"
+        },
+        {
+            "questionText": "Which word is a pronoun?",
+            "options": [{
+                    "text": "Book"
+                },
+                {
+                    "text": "Slow"
+                },
+                {
+                    "text": "Run"
+                },
+                {
+                    "text": "She",
+                    "correct": true
+                }
+            ],
+            "explanation": "Answer: She"
+        },
+        {
+            "questionText": "What is the correct order of words in a basic English sentence?",
+            "options": [{
+                    "text": "Object - Subject - Verb"
+                },
+                {
+                    "text": " Subject - Object - Verb",
+                    "correct": true
+                },
+                {
+                    "text": "Object - Verb - Subject"
+                },
+                {
+                    "text": "Verb - Subject - Object"
+                }
+            ],
+            "explanation": "Answer: Subject - Object - Verb"
+        },
+        {
+            "questionText": "Which of the following is a preposition?",
+            "options": [{
+                    "text": "Between",
+                    "correct": true
+                },
+                {
+                    "text": "Car"
+                },
+                {
+                    "text": "Jump"
+                },
+                {
+                    "text": "Sing"
+                }
+            ],
+            "explanation": "Answer: Between"
+        },
+        {
+            "questionText": "Which sentence uses the correct punctuation?",
+            "options": [{
+                    "text": "We went to the beach yesterday.",
+                    "correct": true
+                },
+                {
+                    "text": "The cat likes to play, in the garden."
+                },
+                {
+                    "text": "She is my best friend!"
+                },
+                {
+                    "text": "I enjoy reading books?"
+                }
+            ],
+            "explanation": "Answer: We went to the beach yesterday."
+        }
+    ]
+}
